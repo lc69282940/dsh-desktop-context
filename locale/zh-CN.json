@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Desktop Context · 桌面环境提示修正",
+    "description": "纠正桌面端沿用的 Web 系统提示，明确原生窗口、ASAR 路径、热更新与刷新中断风险。"
+  }
+}

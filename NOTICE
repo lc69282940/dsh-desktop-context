@@ -1,0 +1,6 @@
+dsh-desktop-context is an independent community plugin, not an official DeepSeek
+product. Its compatibility matcher recognizes the first-party environment prompt
+in DeepSeek Harness 0.2.0-rc.2, Copyright (c) 2026 DeepSeek. Upstream-derived
+portions are used under the MIT License reproduced in LICENSE. The Harness
+runtime itself is not bundled. The package icon is original project artwork
+and is covered by the same MIT license.

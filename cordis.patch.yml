@@ -1,0 +1,5 @@
+# Host-only system-prompt correction. There is intentionally no client entry.
+# The handler is active only in the actual dsh-desktop-host process.
+- insert:
+    - id: dsh-desktop-context
+      name: dsh-desktop-context

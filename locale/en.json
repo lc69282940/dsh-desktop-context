@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Desktop Context · Prompt correction",
+    "description": "Corrects inherited Web instructions in Harness Desktop: native-window targeting, ASAR paths, hot updates, and safe maintenance."
+  }
+}
